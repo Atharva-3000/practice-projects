@@ -66,7 +66,9 @@
 ## Screenshots
 
 ![Home-Page](https://github.com/Resourcio-Community/Resourcio_Community-Website/assets/100519291/d5cd42ca-a93e-4e55-8df9-7a3a819ac609)
+<br/>
 ![Category-Page](https://github.com/Resourcio-Community/Resourcio_Community-Website/assets/100519291/de041a8e-384b-4e6d-9464-dd6192eec2f0)
+<br/>
 ![About-Page](https://github.com/Resourcio-Community/Resourcio_Community-Website/assets/100519291/66727891-944a-4561-aaf2-d7d2df961cbb)
 
 <h2>Getting Involved</h2>
@@ -172,7 +174,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 ### Support
-<div align="center">
+
 <h3>Show some ❤️ by 🌟 this awesome repository!</h3>
-</div>
+
 
