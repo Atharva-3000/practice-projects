@@ -28,27 +28,21 @@
 **Table of Contents**
 <!-- TOC -->
 
-- [:rocket: One stop hub for all Engineers](#rocket-one-stop-hub-for-all-engineers)
-- [:pushpin: Key Features](#pushpin-key-features)
-- [:computer: Tech Stacks used](#computer-tech-stacks-used)
-- [:camera: Screenshots](#camera-screenshots)
-- [:raised_hands: Getting Involved](#raised_hands-getting-involved)
-  - [:hammer_and_wrench: Contribute code](#hammer_and_wrench-contribute-code)
-  - [:bug: Report bugs and suggest features](#bug-report-bugs-and-suggest-features)
-  - [:question: Ask for help](#question-ask-for-help)
-- [:rocket: Getting Started with Resourcio_Community-Website](#rocket-getting-started-with-resourcio_community-website)
-  - [:wrench: To Setup this project in your local environment](#wrench-to-setup-this-project-in-your-local-environment)
-  - [:package: Available Scripts](#package-available-scripts)
-    - [`npm start`](#npm-start)
-    - [`npm run build`](#npm-run-build)
-    - [`npm run eject`](#npm-run-eject)
-  - [:books: Learn More](#books-learn-more)
-  - [:scissors: Code Splitting](#scissors-code-splitting)
-  - [:bar_chart: Analyzing the Bundle Size](#bar_chart-analyzing-the-bundle-size)
-  - [:globe_with_meridians: Making a Progressive Web App](#globe_with_meridians-making-a-progressive-web-app)
-  - [:gear: Advanced Configuration](#gear-advanced-configuration)
-  - [:rocket: Deployment](#rocket-deployment)
-- [:heart: Show some love by starring this awesome repository!](#heart-show-some-love-by-starring-this-awesome-repository)
+## Table of Contents
+- [One stop hub for all Engineers](#one-stop-hub-for-all-engineers)
+- [:pin:Key Features](#-key-features)
+- [Tech Stacks used](#tech-stacks-used)
+- [Screenshots](#screenshots)
+- [Getting Involved](#getting-involved)
+  - [Contribute code](#contribute-code)
+  - [Report bugs and suggest features](#report-bugs-and-suggest-features)
+  - [Ask for help](#ask-for-help)
+- [Getting Started with Resourcio_Community-Website](#getting-started-with-resourcio_community-website)
+  - [Setup project in your local environment](#setup-project-in-your-local-environment)
+  - [Available Scripts](#available-scripts)
+- [Learn More](#learn-more)
+- [Show Some ❤️](#show-some--️-by-starring-this-awesome-repository)
+
 
 <!-- /TOC -->
 
