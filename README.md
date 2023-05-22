@@ -30,7 +30,7 @@
 
 ## Table of Contents
 - [One stop hub for all Engineers](#one-stop-hub-for-all-engineers)
-- [:pin:Key Features](#-key-features)
+- [Key Features 📌](#key-features-)
 - [Tech Stacks used](#tech-stacks-used)
 - [Screenshots](#screenshots)
 - [Getting Involved](#getting-involved)
@@ -49,7 +49,7 @@
 
 ## One stop hub for all Engineers
 
-## 📌Key Features :
+## Key Features 📌:
 - All software related resources in one single place
 - Interactive Sessions
 - News and updates of upcoming Hackathons & Open Sources Programs
