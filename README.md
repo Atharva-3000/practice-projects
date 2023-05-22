@@ -31,7 +31,7 @@
 ## Table of Contents
 - [One stop hub for all Engineers](#one-stop-hub-for-all-engineers)
 - [Key Features 📌](#key-features-)
-- [Tech Stacks used](#tech-stacks-used)
+- [Tech Stacks used 💻](#tech-stacks-used-)
 - [Screenshots](#screenshots)
 - [Getting Involved](#getting-involved)
   - [Contribute code](#contribute-code)
@@ -56,7 +56,7 @@
 - 50+ resources added
 - Open Source Community
 
-## 💻Tech Stacks used :
+## Tech Stacks used 💻:
 - React JS
 - JavaScript
 - Node.js
