@@ -41,7 +41,7 @@
   - [Setup project in your local environment](#setup-project-in-your-local-environment)
   - [Available Scripts](#available-scripts)
 - [Learn More](#learn-more)
-- [Show some ❤️](#show-some-)
+- [Show some ♥️](#show-some-)
 
 
 <!-- /TOC -->
@@ -170,7 +170,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 <br>
 <div align="center">
-### Show some ❤️
+### Show some ♥️
  Show some love by 🌟 this repository 
 </div>
 
