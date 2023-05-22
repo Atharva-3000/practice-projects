@@ -41,7 +41,7 @@
   - [Setup project in your local environment](#setup-project-in-your-local-environment)
   - [Available Scripts](#available-scripts)
 - [Learn More](#learn-more)
-- [SUPPORT](#support)
+- [Support](#support)
 
 
 <!-- /TOC -->
@@ -171,8 +171,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 <br>
 
 
-### SUPPORT
+### Support
 <div align="center">
-<h3>Show some ❤️ by starring this awesome repository!</h3>
+<h3>Show some ❤️ by 🌟 this awesome repository!</h3>
 </div>
 
