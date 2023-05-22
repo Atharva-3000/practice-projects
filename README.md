@@ -169,8 +169,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 <br>
+## Show some ♥️
 <div align="center">
-### Show some ♥️
- Show some love by 🌟 this repository 
+
+ Show love by 🌟 this repository 
 </div>
 
